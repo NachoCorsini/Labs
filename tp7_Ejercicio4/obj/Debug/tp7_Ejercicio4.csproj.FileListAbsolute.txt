@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\bin\Debug\tp7_Ejercicio4.exe.config
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\bin\Debug\tp7_Ejercicio4.exe
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\bin\Debug\tp7_Ejercicio4.pdb
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\obj\Debug\tp7_Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\obj\Debug\tp7_Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\obj\Debug\tp7_Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\obj\Debug\tp7_Ejercicio4.exe
+C:\Users\usuario\source\repos\tp7_Ejercicio1\tp7_Ejercicio4\obj\Debug\tp7_Ejercicio4.pdb
