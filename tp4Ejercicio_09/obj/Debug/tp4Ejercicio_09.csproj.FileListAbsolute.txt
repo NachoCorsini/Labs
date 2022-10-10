@@ -1,0 +1,8 @@
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\bin\Debug\tp4Ejercicio_09.exe.config
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\bin\Debug\tp4Ejercicio_09.exe
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\bin\Debug\tp4Ejercicio_09.pdb
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\obj\Debug\tp4Ejercicio_09.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\obj\Debug\tp4Ejercicio_09.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\obj\Debug\tp4Ejercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\obj\Debug\tp4Ejercicio_09.exe
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_09\obj\Debug\tp4Ejercicio_09.pdb
