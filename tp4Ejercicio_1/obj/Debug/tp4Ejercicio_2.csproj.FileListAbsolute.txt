@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\bin\Debug\tp4Ejercicio_1.exe.config
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\bin\Debug\tp4Ejercicio_1.exe
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\bin\Debug\tp4Ejercicio_1.pdb
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\obj\Debug\tp4Ejercicio_2.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\obj\Debug\tp4Ejercicio_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\obj\Debug\tp4Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\obj\Debug\tp4Ejercicio_1.exe
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_1\obj\Debug\tp4Ejercicio_1.pdb

@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\bin\Debug\tp4Ejercicio_4.exe.config
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\bin\Debug\tp4Ejercicio_4.exe
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\bin\Debug\tp4Ejercicio_4.pdb
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.exe
+C:\Users\usuario\source\repos\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.pdb
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\bin\Debug\tp4Ejercicio_4.exe.config
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\bin\Debug\tp4Ejercicio_4.exe
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\bin\Debug\tp4Ejercicio_4.pdb
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.exe
+C:\Users\usuario\Desktop\Tec. en Programación\Lab. de Computación 1\MIS TRABAJOS\tp4Consola_1\tp4Ejercicio_4\obj\Debug\tp4Ejercicio_4.pdb
